@@ -1,4 +1,6 @@
-# s3indexhack-go
+# s3indexsync
+
+`go get hpgo.io/s3indexsync`
 
 This is an s3 sync tool that uploads files called ".../index.html" additionally
 to S3 objects with key ".../", where "..." is some prefix.
