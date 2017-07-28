@@ -1,4 +1,4 @@
-package sync
+package sync // import "hpgo.io/s3indexsync/internal/sync"
 
 import (
 	"fmt"
