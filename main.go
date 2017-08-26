@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"hpgo.io/s3indexsync/internal/sync"
+	"hellopiers.io/s3indexsync/internal/sync"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-package sync // import "hpgo.io/s3indexsync/internal/sync"
+package sync // import "hellopiers.io/s3indexsync/internal/sync"
 
 import (
 	"fmt"
