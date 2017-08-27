@@ -1,6 +1,6 @@
 # s3indexsync
 
-`go get hpgo.io/s3indexsync`
+`go get hellopiers.io/s3indexsync`
 
 This is an S3 website upload tool that uploads files called ".../index.html" additionally
 to S3 objects with key ".../", where "..." is some prefix. That is: for index.html pages
